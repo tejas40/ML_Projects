@@ -4,7 +4,7 @@ Welcome to my "Data Science Project" repository! 🚀
 
 In this repository, I'm sharing my all project source code with some explaination , feel free to check out my code and if u have any suggestion or doubt u can connect with me on my linkdln profil www.linkedin.com/in/tejas-kharde-847347226 
 
-### **Notion Website published: **
+### Notion Website published:
 For more documentation and get get step by step detail explaination about this project visite my notion wesite Here :
 
 ### **A.Overview:**
@@ -40,10 +40,16 @@ For more documentation and get get step by step detail explaination about this p
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (provide details on requirement file).
-3. Run the app.py type this command in cmd (streamlit run app.py)
-4. Above command Launch the front-end interface on Streamlit server.
-5. Explore movie recommendations based on your preferences.
+3. Then u have to run model/movie_recommendation.ipynb file to get our model name as similarity.pkl 
+4. Run the app.py type this command in cmd (streamlit run app.py)
+5. Above command Launch the front-end interface on Streamlit server.
+6. Explore movie recommendations based on your preferences.
 
+![Project Images](img/P1.jpg)
+![Project Images](img/P2.jpg)
+![Project Images](img/P3.jpg)
+![Project Images](img/P4.jpg)
+ 
 ![Machine Learning](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
