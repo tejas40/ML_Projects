@@ -28,13 +28,13 @@ For more documentation and get get step by step detail explaination about this p
 4. Above command Launch the front-end interface on Streamlit server.
 6. Explore  all analysis report in web application.
 
-![Project Images](img/P1.jpg)
-![Project Images](img/P2.jpg)
-![Project Images](img/P3.jpg)
-![Project Images](img/P4.jpg)
-![Project Images](img/P5.jpg)
-![Project Images](img/P6.jpg)
-![Project Images](img/P7.jpg)
+![Project Images](img/P1.png)
+![Project Images](img/P2.png)
+![Project Images](img/P3.png)
+![Project Images](img/P4.png)
+![Project Images](img/P5.png)
+![Project Images](img/P6.png)
+![Project Images](img/P7.png)
  
 ![Machine Learning](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
